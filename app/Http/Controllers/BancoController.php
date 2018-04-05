@@ -6,5 +6,9 @@ use Illuminate\Http\Request;
 
 class BancoController extends Controller
 {
-    //
+    public function index()
+    {
+
+    }
+
 }
